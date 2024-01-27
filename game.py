@@ -1,6 +1,7 @@
 import random
 import time
 
+
 PLAYER_WINS = [7, 11]
 CASINO_WINS = [2, 3, 12]
 result = None
